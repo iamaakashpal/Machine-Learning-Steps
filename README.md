@@ -99,9 +99,9 @@
 
 # 4. Model Building
 
-## Supervised Machine Learning
+# 1. Supervised Machine Learning
 
-## 1. Regression
+## **`STEP 1:`** Regression
 
     i. Linear Regression -- Handle Outlier(Y) -- Required Feature Transformation(Y).
 
@@ -125,7 +125,7 @@
     
     xi. Gradient Boosting -- Handle Outlier(N)
 
-## 2. Classification
+## **`STEP 2:`** Classification
 
     i. Logistic Regression -- Handle Outlier(Y) -- Required Feature Transformation(Y)
 
@@ -149,15 +149,12 @@
 
     xi. Gradient Boosting -- Handle Outlier(N)
 
-================================================
 
-## Unsupervised Machine Learning
+# 2. Unsupervised Machine Learning
 
-## 1. Clustering
+## **`STEP 1:`** Clustering
 
-## 2. Dimensionality Reduction
-
-================================================
+## **`STEP 2:`** Dimensionality Reduction
 
     i. KMeans -- Handle Outlier(Y) -- Required Feature Transformation(Y)
 
